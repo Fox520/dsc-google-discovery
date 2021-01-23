@@ -1,6 +1,7 @@
-# dsc_google
+# Google Clone
 
-A new Flutter project.
+Repository for this video: https://www.youtube.com/watch?v=tr-6k1y-0Ek
+
 
 ## Getting Started
 
